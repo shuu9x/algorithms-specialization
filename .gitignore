@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Uncompleted problem
+2.3.Closest_pair.py
+2.5.1.Optional_theory_problem_1.py
+
